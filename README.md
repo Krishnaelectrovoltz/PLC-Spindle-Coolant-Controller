@@ -1,5 +1,4 @@
 # **Spindle and Coolant Control System**
-
 ---
 ## **Project Overview**
 
