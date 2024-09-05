@@ -1,9 +1,6 @@
-Here’s an updated **README** with the new logic:
-
----
-
 # **Spindle and Coolant Control System**
 
+---
 ## **Project Overview**
 
 This project features a PLC-based control system for managing a spindle, coolant, and lamp using Simatic Manager. The system operates in two modes—auto and manual—providing flexibility in machine control. It also includes an emergency button for safety.
