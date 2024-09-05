@@ -4,6 +4,8 @@
 
 This project features a PLC-based control system for managing a spindle, coolant, and lamp using Simatic Manager. The system operates in two modes- auto and manual , providing flexibility in machine control. It also includes an emergency button for safety.
 
+![Spindle   Coolant - converted_page-0001](https://github.com/user-attachments/assets/3072509c-01d8-413f-a33b-5d44c9dd341c)
+
 ## **Features**
 
 - **Dual Mode Operation**: Switch between Auto and Manual modes. Modes are mutually exclusive; enabling one disables the other.
