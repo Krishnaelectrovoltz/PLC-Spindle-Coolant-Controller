@@ -1,4 +1,4 @@
-# **Spindle and Coolant Control System**
+# **PLC-Based Spindle Control System: Auto and Manual Modes with Safety Interlocks**
 
 ## **Project Overview**
 
