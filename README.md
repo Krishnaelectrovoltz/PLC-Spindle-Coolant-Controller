@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project features a PLC-based control system for managing a spindle, coolant, and lamp using Simatic Manager. The system operates in two modes-auto and manual-providing flexibility in machine control. It also includes an emergency button for safety.
+This project features a PLC-based control system for managing a spindle, coolant, and lamp using Simatic Manager. The system operates in two modes- auto and manual , providing flexibility in machine control. It also includes an emergency button for safety.
 
 ## **Features**
 
