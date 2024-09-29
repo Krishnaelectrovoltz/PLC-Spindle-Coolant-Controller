@@ -7,7 +7,7 @@ This project features a PLC-based control system for managing a spindle, coolant
 https://github.com/user-attachments/assets/b2da2250-ebee-4219-b5e0-d330d094e275
 
 
-![Spindle   Coolant - converted_page-0001](https://github.com/user-attachments/assets/3072509c-01d8-413f-a33b-5d44c9dd341c)
+![Spindle   Coolant - converted_page-0001](https://github.com/user-attachments/assets/3072509c-01d8-413f-a33b-5d44c9dd341c) 
 
 ## **Features**
 
