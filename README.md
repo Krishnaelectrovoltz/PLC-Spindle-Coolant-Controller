@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/b2da2250-ebee-4219-b5e0-d330d094e275
 
 
 ![Spindle   Coolant - converted_page-0001](https://github.com/user-attachments/assets/3072509c-01d8-413f-a33b-5d44c9dd341c) 
-
+ 
 ## **Features**
 
 - **Dual Mode Operation**: Switch between Auto and Manual modes. Modes are mutually exclusive; enabling one disables the other.
