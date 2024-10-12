@@ -1,4 +1,4 @@
-# **PLC-Based Spindle Control System: Auto and Manual Modes with Safety Interlocks**
+# **PLC-Based Spindle Control System: Auto and Manual Modes with Safety Interlocks** 
 
 ## **Project Overview**
 
