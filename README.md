@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/b2da2250-ebee-4219-b5e0-d330d094e275
   - **Coolant Activation**: Delays coolant activation by 5 seconds after the spindle turns on.
 - **Emergency Button**: Immediately turns off the spindle, coolant, and lamp when activated.
 
-## **Control Logic**
+## **Control Logic** 
 
 1. **Mode Selection**:
    - **Manual Mode**: 
